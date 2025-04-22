@@ -1,0 +1,9 @@
+{
+	"name": "ADFAGRDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cfeb1a08-6633-452e-9600-037fbdf93e9e",
+		"tenantId": "90ce125a-d062-44bc-8851-42655bcbbddc"
+	}
+}
